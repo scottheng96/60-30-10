@@ -1,3 +1,6 @@
+# 60-30-10
+60-30-10 color palette auto-generator new tab chrome extension
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
